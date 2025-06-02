@@ -1,7 +1,7 @@
 
 import React from 'react';
 import { Routes, Route, NavLink, useLocation } from 'react-router-dom';
-import { NAV_ITEMS, HomeIcon, USER_AVATAR_URL } from './constants';
+import { NAV_ITEMS, USER_AVATAR_URL } from './constants';
 import DashboardPage from './components/DashboardPage';
 import TaskManagementPage from './components/TaskManagementPage';
 import CommunicationPage from './components/CommunicationPage';
